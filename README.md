@@ -57,11 +57,6 @@ After data cleaning, the following steps were performed in EDA to gain insights:
 - **Pandas**: Data manipulation and analysis.
 - **Matplotlib & Seaborn**: Data visualization.
 
-## Project Structure
-- `data/`: Contains the raw and cleaned datasets.
-- `notebooks/`: Jupyter notebooks documenting the data cleaning, EDA, and analysis steps.
-- `README.md`: Project overview and documentation (this file).
-
 ## Future Improvements
 1. **Advanced Feature Engineering**:
    - Add more features such as amenities, proximity to landmarks, and review scores to improve analysis accuracy.
